@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @TechnoLuc
 #
-👀 I’m interested in Proxmox, Homelab, Containers (QEMU, LXC, Docker), Linux, Apple (iOS,macOS,watchOS,tvOS), Windows, Github, VS Code / Code Server, Notion and i open Awesome Selfhosted every day to check for new 
+👀 I’m interested in Proxmox, Homelab, Containers (QEMU, LXC, Docker), Linux, Apple (iOS,macOS,watchOS,tvOS), Windows, Github, VS Code / Code Server, Notion and i open Awesome Selfhosted every day to check for news. 15 users on my Plex Server. 
 
 🌱 I’m currently learning git
 
