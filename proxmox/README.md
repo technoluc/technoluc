@@ -20,6 +20,7 @@ wget http://cloud-images.ubuntu.com/jammy/current/jammy-server-cloudimg-amd64.im
 
 when bionic, hirsute or jammy images are used make sure to update below commands with the corresponding name
 
+
 ## Install Qemu Guest Agent in image (bionic|focal|hirsute|jammy)
 ```
 virt-customize -a focal-server-cloudimg-amd64.img --install qemu-guest-agent
