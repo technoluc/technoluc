@@ -17,7 +17,9 @@ Or, checkout the documentation i keep here.
 
 ### [Build a custom Ubuntu template for proxmox using cloud-init](proxmox/README.md)
 
+<!---
 ### Download [software](https://nc.kurstjens.nu/index.php/s/gfeneEJoQG7tfkw)
+--->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=technoluc)](https://github.com/anuraghazra/github-readme-stats)
 
