@@ -15,6 +15,6 @@ You can click the Preview link to take a look at your changes.
 
 Or, checkout the documentation i keep here.
 
-## [Build a custom Ubuntu template for proxmox using cloud-init](proxmox/README.md)
+### [Build a custom Ubuntu template for proxmox using cloud-init](proxmox/README.md)
 
-## download [software](https://nc.kurstjens.nu/index.php/s/gfeneEJoQG7tfkw)
+### Download [software](https://nc.kurstjens.nu/index.php/s/gfeneEJoQG7tfkw)
