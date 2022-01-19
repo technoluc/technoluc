@@ -18,3 +18,9 @@ Or, checkout the documentation i keep here.
 ### [Build a custom Ubuntu template for proxmox using cloud-init](proxmox/README.md)
 
 ### Download [software](https://nc.kurstjens.nu/index.php/s/gfeneEJoQG7tfkw)
+
+
+# 🧑‍💻 My open source repos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=technoluc&repo=homelab&theme=radical)](https://github.com/technoluc/homelab.git)
+
