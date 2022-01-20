@@ -6,6 +6,11 @@
 
 📫 You can reach me via [Discord](https://discord.gg/kvvndsWGmT)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=technoluc)](https://github.com/anuraghazra/github-readme-stats)
+
+# 🧑‍💻 My open source repos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=technoluc&repo=homelab&theme=radical)](https://github.com/technoluc/homelab.git)
 <!---
 technoluc/technoluc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -21,9 +26,8 @@ Or, checkout the documentation i keep here.
 <!-- ### Download [software](https://nc.kurstjens.nu/index.php/s/gfeneEJoQG7tfkw) -->
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=technoluc)](https://github.com/anuraghazra/github-readme-stats)
 
-# 🧑‍💻 My open source repos
+## 🧑‍💻 My open source repos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=technoluc&repo=homelab&theme=radical)](https://github.com/technoluc/homelab.git)
 
