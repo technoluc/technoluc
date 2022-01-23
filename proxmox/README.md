@@ -65,7 +65,7 @@ qm template 9000
 ### Configure cloud-init
 Open the cloud-init tab for the VM
 
-Configure username, password and network (set to dhcp) and "Regenerate Image"
+Configure username, password and network (set to dhcp) and "Regenerate Image". Add SSH keys if you want but I'll be using password authentication
 
 
 ## (Full) Clone template  
@@ -91,11 +91,10 @@ qm start 9999
 ```
 sudo apt install nfs-common python3-pip 
 ```
+
+Enable PasswordAuthentication via SSH
 ```
-pip3 install thefuck
-```
-```
-pip3 install tldr
+sudo sed -i 's/PasswordAuthentication no/PasswordAuthentication yes/g' /etc/ssh/sshd_config
 ```
 
 ### Prepare VM for template
