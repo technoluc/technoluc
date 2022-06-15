@@ -28,11 +28,14 @@ You can click the Preview link to take a look at your changes.
 
 ## Check out my [Homelab](https://github.com/technoluc/homelab.git)
 
+## Proxmox
 
-### [Build a custom Ubuntu template for proxmox using cloud-init](proxmox/README.md)
+[Build a custom Ubuntu template for proxmox using cloud-init](proxmox/README.md)
+
 ### iOS Shortcuts
 
 [Proxmox Manager](https://www.icloud.com/shortcuts/216466a5361d475090f787211297767e)
+
 [Clone Proxmox VM via iOS shortcut](https://www.icloud.com/shortcuts/afc4686b36cf41b5bc62e10215a351bc)
 
 
