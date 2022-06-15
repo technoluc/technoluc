@@ -15,7 +15,8 @@
 
 ## 🧑‍💻 My open source repos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=technoluc&repo=technoluc.github.io &theme=radical)](https://github.com/technoluc/technoluc.github.io.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=technoluc&repo=technoluc.github.io&theme=radical)](https://github.com/technoluc/technoluc.github.io.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=technoluc&repo=recycle-bin-themes&theme=radical)](https://github.com/technoluc/recycle-bin-themes.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=technoluc&repo=winutil&theme=radical)](https://github.com/technoluc/winutil.git)
 
 
@@ -29,8 +30,11 @@ You can click the Preview link to take a look at your changes.
 
 
 ### [Build a custom Ubuntu template for proxmox using cloud-init](proxmox/README.md)
-### [Clone Proxmox VM via iOS shortcut](https://www.icloud.com/shortcuts/afc4686b36cf41b5bc62e10215a351bc)
+### iOS Shortcuts
 
-<!-- ### Download [software](https://nc.kurstjens.nu/index.php/s/gfeneEJoQG7tfkw) -->
+[Proxmox Manager]()
+[Clone Proxmox VM via iOS shortcut](https://www.icloud.com/shortcuts/afc4686b36cf41b5bc62e10215a351bc)
+
+
 
 
