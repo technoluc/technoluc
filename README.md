@@ -13,13 +13,16 @@
 
 <!-- 📫 You can reach me via [Discord](https://discord.gg/kvvndsWGmT) -->
 
+| <a href="https://github.com/technoluc/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=technoluc&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="TechnoLuc's github stats" /></a> | <a href="https://github.com/technoluc/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=technoluc&langs_count=9&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=technoluc)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## 🧑‍💻 My open source repos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=technoluc&repo=technoluc.github.io&theme=radical)](https://github.com/technoluc/technoluc.github.io.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=technoluc&repo=recycle-bin-themes&theme=radical)](https://github.com/technoluc/recycle-bin-themes.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=technoluc&repo=winutil&theme=radical)](https://github.com/technoluc/winutil.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=technoluc&repo=technoluc.github.io&theme=buefy)](https://github.com/technoluc/technoluc.github.io.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=technoluc&repo=recycle-bin-themes&theme=buefy)](https://github.com/technoluc/recycle-bin-themes.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=technoluc&repo=winutil&theme=buefy)](https://github.com/technoluc/winutil.git)
 
 
 
