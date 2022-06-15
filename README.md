@@ -4,6 +4,8 @@
 [![GitHub Stars](https://img.shields.io/github/stars/technoluc?logo=github&style=for-the-badge)](https://github.com/technoluc)
 [![Discord Invite](https://img.shields.io/discord/677701098101932032?color=4A55CC&label=Discord&logo=discord&style=for-the-badge)](https://discord.gg/kvvndsWGmT)
 
+[DOCUMENTATION](https://technoluc.github.io)
+
 #
 👀 I’m interested in homelabs, self-hosting, Proxmox, Containers (QEMU, LXC, Docker), Linux, Apple (iOS,macOS,watchOS,tvOS), Windows, VS Code / Code Server, Notion and i open Awesome Selfhosted every day to check for news. Currently about 15 users on my Plex Server. I love the *arr stack...
 
