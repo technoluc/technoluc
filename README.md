@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 My open source repos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=technoluc&repo=homelab&theme=radical)](https://github.com/technoluc/homelab.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=technoluc&repo=technoluc.github.io &theme=radical)](https://github.com/technoluc/technoluc.github.io.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=technoluc&repo=winutil&theme=radical)](https://github.com/technoluc/winutil.git)
 
 
