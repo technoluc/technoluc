@@ -21,7 +21,7 @@
 ## 🧑‍💻 My open source repos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=technoluc&repo=technoluc.github.io&theme=buefy)](https://github.com/technoluc/technoluc.github.io.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=technoluc&repo=dotfiles&theme=buefy)](https://github.com/technoluc/winutil.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=technoluc&repo=dotfiles&theme=buefy)](https://github.com/technoluc/dotfiles.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=technoluc&repo=recycle-bin-themes&theme=buefy)](https://github.com/technoluc/recycle-bin-themes.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=technoluc&repo=winutil&theme=buefy)](https://github.com/technoluc/winutil.git)
 
