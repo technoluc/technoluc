@@ -1,8 +1,13 @@
 ## 👋 Hi, I’m @TechnoLuc
 
-[![GitHub followers](https://img.shields.io/github/followers/technoluc?logo=GitHub&style=for-the-badge)](https://github.com/technoluc)
-[![GitHub Stars](https://img.shields.io/github/stars/technoluc?logo=github&style=for-the-badge)](https://github.com/technoluc)
-[![Discord Invite](https://img.shields.io/discord/677701098101932032?color=4A55CC&label=Discord&logo=discord&style=for-the-badge)](https://discord.gg/kvvndsWGmT)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=technoluc&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,cloudflare,docker,git,github,jenkins,linux,md,nginx,powershell,py,raspberrypi,stackoverflow,vscode)" />
+  </a>
+</p>
+
 
 [DOCUMENTATION](https://technoluc.github.io)
 
