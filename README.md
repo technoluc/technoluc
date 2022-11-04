@@ -1,13 +1,16 @@
 ## 👋 Hi, I’m @TechnoLuc
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=technoluc&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+<p align="center">
+  <a href="[https://skillicons.dev](https://github.com/Jurredr/github-widgetbox)">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=technoluc&data=followers,repositories,stars,commits" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,cloudflare,docker,git,github,jenkins,linux,md,nginx,powershell,py,raspberrypi,stackoverflow,vscode)" />
   </a>
 </p>
-
 
 [DOCUMENTATION](https://technoluc.github.io)
 
