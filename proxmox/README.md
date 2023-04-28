@@ -37,37 +37,40 @@ virt-customize -a ${version}-server-cloudimg-amd64.img --install qemu-guest-agen
 
 ## Create Virtual Machine and import cloud-image 
 
-
 ```
-qm create 9000 --name "${version}-server-cloudinit-template" --memory 4096 --cores 4 --net0 virtio,bridge=vmbr0
-```
-
-```
-qm importdisk 9000 ${version}-server-cloudimg-amd64.img --format qcow2 local-lvm
+vmid=8000
 ```
 
 ```
-qm set 9000 --scsihw virtio-scsi-pci --scsi0 local-lvm:vm-9000-disk-0
+qm create ${vmid} --name "${version}-server-cloudinit-template" --memory 4096 --cores 4 --net0 virtio,bridge=vmbr0
 ```
 
 ```
-qm set 9000 --boot c --bootdisk scsi0
+qm importdisk ${vmid} ${version}-server-cloudimg-amd64.img --format qcow2 local-lvm
 ```
 
 ```
-qm set 9000 --ide2 local-lvm:cloudinit
+qm set ${vmid} --scsihw virtio-scsi-pci --scsi0 local-lvm:vm-${vmid}-disk-0
 ```
 
 ```
-qm set 9000 --serial0 socket --vga serial0
+qm set ${vmid} --boot c --bootdisk scsi0
 ```
 
 ```
-qm set 9000 --agent enabled=1
+qm set ${vmid} --ide2 local-lvm:cloudinit
 ```
 
 ```
-qm template 9000
+qm set ${vmid} --serial0 socket --vga serial0
+```
+
+```
+qm set ${vmid} --agent enabled=1
+```
+
+```
+qm template ${vmid}
 ```
 
 ## Open Proxmox Web-UI
