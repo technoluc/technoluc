@@ -1,40 +1,49 @@
 # Create custom Ubuntu cloud-init template for Proxmox
 
-##  Download Ubuntu cloud-image
-### Ubuntu 18.04
+#  Download Ubuntu cloud-image
+
+## Ubuntu Versions
+
+18.04
 ```
-wget http://cloud-images.ubuntu.com/bionic/current/bionic-server-cloudimg-amd64.img
-```
-### Ubuntu 20.04
-```
-wget http://cloud-images.ubuntu.com/focal/current/focal-server-cloudimg-amd64.img
-```
-### Ubuntu 21.04
-```
-wget http://cloud-images.ubuntu.com/hirsute/current/hirsute-server-cloudimg-amd64.img
-```
-### Ubuntu 22.04
-```
-wget http://cloud-images.ubuntu.com/jammy/current/jammy-server-cloudimg-amd64.img
+version=bionic
 ```
 
-when bionic, hirsute or jammy images are used make sure to update below commands with the corresponding name
+20.04
+```
+version=focal
+```
+
+21.04
+```
+version=hirsute
+```
+
+22.04
+```
+version=jammy
+```
+
+### Download cloudimg
+```
+wget http://cloud-images.ubuntu.com/jammy/current/${version}-server-cloudimg-amd64.img
+```
 
 
 ## Install Qemu Guest Agent in image (bionic|focal|hirsute|jammy)
 ```
-virt-customize -a focal-server-cloudimg-amd64.img --install qemu-guest-agent
+virt-customize -a ${version}-server-cloudimg-amd64.img --install qemu-guest-agent
 ```
 
 ## Create Virtual Machine and import cloud-image 
 
 
 ```
-qm create 9000 --name "focal-server-cloudinit-template" --memory 4096 --cores 4 --net0 virtio,bridge=vmbr0
+qm create 9000 --name "${version}-server-cloudinit-template" --memory 4096 --cores 4 --net0 virtio,bridge=vmbr0
 ```
 
 ```
-qm importdisk 9000 focal-server-cloudimg-amd64.img --format qcow2 local-lvm
+qm importdisk 9000 ${version}-server-cloudimg-amd64.img --format qcow2 local-lvm
 ```
 
 ```
