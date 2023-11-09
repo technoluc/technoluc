@@ -664,14 +664,7 @@ if [ -n "$USERNAME" ] && [ -n "$PASSWORD" ]; then
 fi
 if [ "$START_VM" == "yes" ]; then
   msg_info "Starting Debian 12 VM"
-  qm start $VMID
+  qm start $VMID >/dev/null
   msg_ok "Started Debian 12 VM"
 fi
 msg_ok "Completed Successfully!\n"
-  if (whiptail --backtitle "Proxmox VE Helper Scripts" --title "OPEN TERMINAL VIRTUAL MACHINE" --yesno "Open Terminal?" 10 58); then
-    echo -e "${DGN}Start VM when completed: ${BGN}yes${CL}"
-    START_VM="yes"
-  else
-    echo -e "${DGN}Start VM when completed: ${BGN}no${CL}"
-    START_VM="no"
-  fi
