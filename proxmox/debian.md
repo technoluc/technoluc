@@ -1,25 +1,27 @@
-# Create custom Ubuntu cloud-init template for Proxmox
+# Create custom Debian cloud-init template for Proxmox
 
 ## Debian Versions
 
-12 (BookWorm)
+### 12 (BookWorm)
 
 ```sh
 CloudImgUrl=https://cdimage.debian.org/cdimage/cloud/bookworm/latest/debian-12-genericcloud-amd64.qcow2
-CloudImgFile=debian-12-genericcloud-amd64.qcow2
 ```
 
 ## Create Virtual Machine and import cloud-image
 
 ```sh
+vmid=9110
+CloudImgFile=$(basename $CloudImgUrl)
+TemplateName=$(basename $CloudImgUrl | cut -d'-' -f1,2)
+
 # Download cloud img 
-wget ${CloudImgUrl}
+wget -q --show-progress ${CloudImgUrl}
+echo -en "\e[1A\e[0K"
+echo "Downloaded ${CloudImgFile}"
 
 # Install Qemu Guest Agent in image
 virt-customize -a ${CloudImgFile} --install qemu-guest-agent
-vmname=tacticalrmm
-CloudImgFile=debian-12-genericcloud-amd64.qcow2
-vmid=9110
 
 # Create a VM
 qm create ${vmid} --name ${vmname} --memory 4096 --cores 2 --net0 virtio,bridge=vmbr0
@@ -69,13 +71,7 @@ fi
 
 Now start the machine or configure for template.
 
-## Configure template  
-
-### Set $TemplateName and clone
-
-```sh
-export TemplateName=debian-12-cloudinit-template
-```
+## Configure for template  
 
 ### Start VM
 
@@ -93,6 +89,8 @@ sudo apt install nfs-common python3-pip
 # Enable PasswordAuthentication via SSH
 sudo sed -i 's/PasswordAuthentication no/PasswordAuthentication yes/g' /etc/ssh/sshd_config
 ```
+
+Do whatever you like, the next step is to shutdown and prepare the VM. 
 
 #### Prepare VM for template
 
@@ -116,26 +114,12 @@ qm template ${vmid}
 ### Set $NEW_VM_ID
 
 ```sh
+# Set $NEW_VM_ID
 export NEW_VM_ID=$(pvesh get /cluster/nextid)
-
-```
-
-### Set $TemplateName (edit this, will also be hostname of new VM)
-
-```sh
-read -p "New VM-name? " TemplateName
-```
-
-### Clone VM
-
-```sh
-qm clone 9110 $NEW_VM_ID --full --name $TemplateName
-```
-
-### Start VM
-
-```sh
+# Set $CloneName (edit this, will also be hostname of new VM)
+read -p "New VM-name? " CloneName
+# Clone VM
+qm clone 9110 $NEW_VM_ID --full --name $CloneName
+# Start VM
 qm start $NEW_VM_ID
 ```
-
-
