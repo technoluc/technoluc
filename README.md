@@ -34,11 +34,22 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![Affinity Designer](https://img.shields.io/badge/affinity%20designer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) 
 ![Affinity Photo](https://img.shields.io/badge/affinity%20photo-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) 
+ <br>
+<p align="center">
+  <strong>
+    Checkout my cheatsheets on
+    <a href="https://technoluc.nl/">TechnoLuc.nl</a>
+  </strong>
+</p>
+
+<p align="center">
+  <a href="https://technoluc.github.io">
+    <img src="https://raw.githubusercontent.com/technoluc/technoluc/main/assets/tl_gh_io.jpg" width="700" />
+  </a>
+</p>
 
 # 💫 About Me:
 🔭 I’m currently working on: everything...<br>👯 I’m looking to collaborate on: everything!<br>🤝 I’m looking for help with: everything...<br>🌱 I’m currently learning: EVERYTHING!<br>💬 Ask me about: no<br>⚡ Fun fact: The word “bug” was coined by Grace Hopper, as they literally found a moth on the machine that cause the problem discovered. (source: https://www.globalapptesting.com/blog/the-worlds-first-computer-bug-global-app-testing)<br>
-
-[DOCUMENTATION](https://technoluc.github.io) <br>
 
 Proxmox: <br>
 [Build a custom Ubuntu template for proxmox using cloud-init](proxmox/README.md) 
