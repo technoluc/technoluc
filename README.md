@@ -82,11 +82,10 @@ iOS Shortcuts:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=technoluc&theme=swift&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=technoluc&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+[![](https://visitcount.itsvg.in/api?id=technoluc&icon=5&color=6)](https://visitcount.itsvg.in)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=technoluc&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=technoluc&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
@@ -94,6 +93,8 @@ iOS Shortcuts:
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 ---
 <!--
 #
@@ -103,10 +104,10 @@ iOS Shortcuts:
 
 📫 You can reach me via [Discord](https://discord.gg/kvvndsWGmT) -->
 
-<!--
+
 | <a href="https://github.com/technoluc/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=technoluc&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="TechnoLuc's github stats" /></a> | <a href="https://github.com/technoluc/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=technoluc&langs_count=9&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
--->
+
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=technoluc)](https://github.com/anuraghazra/github-readme-stats) -->
 
@@ -135,10 +136,6 @@ iOS Shortcuts:
 - [WinWizard](https://github.com/technoluc/WinWizard) - Windows wizard for common tasks.
 - [WpfZoo](https://github.com/technoluc/WpfZoo) - Collection of WPF (Windows Presentation Foundation) samples and utilities.
 --->
-
-
-
-[![](https://visitcount.itsvg.in/api?id=technoluc&icon=5&color=6)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/LucKurstjens) 
