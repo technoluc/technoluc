@@ -63,7 +63,23 @@ You can click the Preview link to take a look at your changes.
 - [msoffice-removal-tool](https://github.com/technoluc/msoffice-removal-tool) - Tool for removing Microsoft Office from Windows.
 - [NotionHook](https://github.com/technoluc/NotionHook) - Integration scripts for Notion.
 - [OfficeRTool](https://github.com/technoluc/OfficeRTool) - Tool for managing Microsoft Office installations.
-- [officeutil](https://github.com/technoluc/officeutil) - Utility scripts for Microsoft Office.
+- <details>
+  <summary> [officeutil](https://github.com/technoluc/officeutil) - Utility scripts for Microsoft Office.</summary>
+  <br>
+  **Automated Office Management for Windows**
+
+  OfficeUtil.ps1 is a PowerShell script automating the deployment, installation, and removal of Microsoft Office. Use the provided command to quickly run the script. Always review scripts before execution and customize variables as needed.
+
+  **Usage:**
+  ```powershell
+  irm $url | iex
+  ```
+
+  For details and options, see the script comments. Use responsibly and at your own risk.
+
+  ---
+  *Note: Replace `$url` with the raw GitHub URL of the OfficeUtil.ps1 script.*
+  </details>
 - [PD-Runner](https://github.com/technoluc/PD-Runner) - Script for running PowerShell scripts in parallel.
 - [recycle-bin-themes](https://github.com/technoluc/recycle-bin-themes) - Themes for Windows recycle bin icons.
 - [scripts](https://github.com/technoluc/scripts) - Collection of miscellaneous scripts.
