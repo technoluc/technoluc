@@ -81,6 +81,25 @@ iOS Shortcuts:
 ![](https://github-readme-stats.vercel.app/api?username=technoluc&theme=swift&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=technoluc&theme=swift&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=technoluc&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=technoluc&theme=swift&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
 
 [![](https://visitcount.itsvg.in/api?id=technoluc&icon=5&color=6)](https://visitcount.itsvg.in)
 
@@ -93,11 +112,6 @@ iOS Shortcuts:
 ## 😂 Random Dev Meme & ✍️ Random Dev Quote
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> | ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 | --------- | --------- |
-
-
-| <a href="https://github.com/technoluc/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=technoluc&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="TechnoLuc's github stats" /></a> | <a href="https://github.com/technoluc/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=technoluc&langs_count=9&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
 
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/LucKurstjens) 
@@ -123,6 +137,11 @@ iOS Shortcuts:
 - [winutil](https://github.com/technoluc/winutil) - Windows utility scripts.
 - [WinWizard](https://github.com/technoluc/WinWizard) - Windows wizard for common tasks.
 - [WpfZoo](https://github.com/technoluc/WpfZoo) - Collection of WPF (Windows Presentation Foundation) samples and utilities.
+-->
+
+<!--
+| <a href="https://github.com/technoluc/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=technoluc&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="TechnoLuc's github stats" /></a> | <a href="https://github.com/technoluc/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=technoluc&langs_count=9&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 -->
 
 <!--
