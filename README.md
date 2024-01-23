@@ -90,32 +90,20 @@ iOS Shortcuts:
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=technoluc&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
----
-<!--
-#
-👀 I’m just messing around...
-
-🌱 I’m currently learning a lot...
-
-📫 You can reach me via [Discord](https://discord.gg/kvvndsWGmT) -->
+## 😂 Random Dev Meme & ✍️ Random Dev Quote
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> | ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
+| -———— | -———— |
 
 
 | <a href="https://github.com/technoluc/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=technoluc&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="TechnoLuc's github stats" /></a> | <a href="https://github.com/technoluc/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=technoluc&langs_count=9&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=technoluc)](https://github.com/anuraghazra/github-readme-stats) -->
+## 💰 You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/LucKurstjens) 
 
-## Check out my [Homelab](https://github.com/technoluc/homelab.git)
-
-
-<!--- 
-# technoluc's GitHub Repositories
+<!—-
+# technoluc’s GitHub Repositories
 - [dotfiles](https://github.com/technoluc/dotfiles) - Repository for my dotfiles, configurations, and setup scripts.
 - [extensions](https://github.com/technoluc/extensions) - Collection of various extensions and plugins for different tools.
 - [FileWatcher](https://github.com/technoluc/FileWatcher) - Utility for watching files and directories for changes.
@@ -135,10 +123,20 @@ iOS Shortcuts:
 - [winutil](https://github.com/technoluc/winutil) - Windows utility scripts.
 - [WinWizard](https://github.com/technoluc/WinWizard) - Windows wizard for common tasks.
 - [WpfZoo](https://github.com/technoluc/WpfZoo) - Collection of WPF (Windows Presentation Foundation) samples and utilities.
---->
+-—>
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/LucKurstjens) 
+<!— 
+[![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=technoluc)](https://github.com/anuraghazra/github-readme-stats) —>
 
-  
+<!—
+## Check out my [Homelab](https://github.com/technoluc/homelab.git) —>
+
+<!—
+#
+👀 I’m just messing around...
+
+🌱 I’m currently learning a lot...
+
+📫 You can reach me via [Discord](https://discord.gg/kvvndsWGmT) —>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
