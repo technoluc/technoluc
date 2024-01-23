@@ -1,9 +1,10 @@
-<!-- ## 👋 Hi, I’m @TechnoLuc -->
-
 <p align="center">
-  <a href="[https://skillicons.dev](https://github.com/Jurredr/github-widgetbox)">
+  <strong>
+    👋 Hi, I’m @TechnoLuc! <br>
+      <a href="[https://skillicons.dev](https://github.com/Jurredr/github-widgetbox)">
     <img src="https://github-widgetbox.vercel.app/api/profile?username=technoluc&data=followers,repositories,stars,commits" />
-  </a>
+
+  </strong>
 </p>
 
 # 💻 Tech Stack:
@@ -35,6 +36,9 @@
 ![Affinity Designer](https://img.shields.io/badge/affinity%20designer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) 
 ![Affinity Photo](https://img.shields.io/badge/affinity%20photo-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) 
  <br>
+ 
+ -----
+ 
 <p align="center">
   <strong>
     Checkout my cheatsheets on
@@ -49,23 +53,15 @@
 </p>
 
 # 💫 About Me:
-🔭 I’m currently working on: everything...<br>👯 I’m looking to collaborate on: everything!<br>🤝 I’m looking for help with: everything...<br>🌱 I’m currently learning: EVERYTHING!<br>💬 Ask me about: no<br>⚡ Fun fact: The word “bug” was coined by Grace Hopper, as they literally found a moth on the machine that cause the problem discovered. (source: https://www.globalapptesting.com/blog/the-worlds-first-computer-bug-global-app-testing)<br>
+🔭 I’m currently working on: everything...<br>👯 I’m looking to collaborate on: everything!<br>🤝 I’m looking for help with: everything...<br>🌱 I’m currently learning: EVERYTHING!<br>💬 Ask me about: no<br>⚡ Fun fact: Grace Hopper coined the term "bug" when a literal moth caused a computer issue. (source: https://www.globalapptesting.com/blog/the-worlds-first-computer-bug-global-app-testing)<br>
 
 Proxmox: <br>
 [Build a custom Ubuntu template for proxmox using cloud-init](proxmox/README.md) 
 
-iOS Shortcuts:
+iOS Shortcuts: <br>
 [Proxmox Manager](https://www.icloud.com/shortcuts/216466a5361d475090f787211297767e) <br>
 [Clone Proxmox VM via iOS shortcut](https://www.icloud.com/shortcuts/afc4686b36cf41b5bc62e10215a351bc)
 
-
-<!-- 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,cloudflare,docker,git,github,jenkins,linux,md,nginx,powershell,py,raspberrypi,stackoverflow,vscode" />
-  </a>
-</p>
--->
 
 ## 🧑‍💻 My open source repos
 
@@ -78,36 +74,16 @@ iOS Shortcuts:
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=technoluc&theme=swift&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=technoluc&theme=swift&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=technoluc&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=technoluc&theme=swift&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+<a href="https://github.com/technoluc/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=technoluc&theme=swift&hide_border=false&include_all_commits=true" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+<a href="https://github.com/technoluc/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=technoluc&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=380" />
+</a> 
 
 
 [![](https://visitcount.itsvg.in/api?id=technoluc&icon=5&color=6)](https://visitcount.itsvg.in)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=technoluc&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=technoluc&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ## 😂 Random Dev Meme & ✍️ Random Dev Quote
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> | ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
@@ -115,6 +91,39 @@ iOS Shortcuts:
 
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/LucKurstjens) 
+
+<!--
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=technoluc&theme=swift&no-frame=false&no-bg=true&margin-w=4)
+-->
+
+<!-- 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,cloudflare,docker,git,github,jenkins,linux,md,nginx,powershell,py,raspberrypi,stackoverflow,vscode" />
+  </a>
+</p>
+-->
+
+<!--
+<p align="center">
+  <a href="[https://skillicons.dev](https://github.com/Jurredr/github-widgetbox)">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=technoluc&data=followers,repositories,stars,commits" />
+  </a>
+</p>
+-->
+
+<!--
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=technoluc&theme=swift&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=technoluc&theme=swift&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=technoluc&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=380)
+-->
+
+<!--
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=technoluc&limit=5&theme=buefy&combine_all_yearly_contributions=true)
+-->
 
 <!--
 # technoluc’s GitHub Repositories
